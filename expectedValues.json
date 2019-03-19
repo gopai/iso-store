@@ -1,0 +1,105 @@
+{
+  "fileSystemOffset": 2,
+  "blockSize": 512,
+  "volumeLabel": "TEST VOLUME",
+  "capacity": 8053062656,
+  "occupiedSpace": 24239104,
+  "freeSpace": 8028823552,
+  "chunkSize": 4096,
+
+  "timezone": "America/Los_Angeles",
+
+  "search": [
+    "/seach/this/found.txt",
+    "seach/this/found.txt",
+    "/RRUe0Mo.png",
+    "RRUe0Mo.png",
+    "/folder 1/subfolder/RRUe0Mo.png",
+    "folder 1/subfolder/RRUe0Mo.png",
+    "folder 1/subfolder/",
+    "/folder 1",
+    "folder 1"
+  ],
+
+  "isDirectory": {
+    "/seach/this/found.txt": false,
+    "RRUe0Mo.png": false,
+    "folder 1/subfolder/": true,
+    "folder 1": true
+  },
+
+  "getName": [
+    "folder 2",
+    "RRUe0Mo.png"
+  ],
+
+  "setName": [
+    "new folder x33 name",
+    "new file !!23namE.pnG"
+  ],
+
+  "list": {
+    "folder 1": ["subfolder"],
+    "folder 2": ["RRUe0Mo.png"],
+    "seach": ["this"],
+    "/": ["RRUe0Mo.png", "folder 1", "folder 2", "seach", "test.txt"]
+  },
+
+  "getLengthFiles": {
+    "RRUe0Mo.png": 2439584,
+    "/folder 1/subfolder/RRUe0Mo.png": 2439584,
+    "/seach/this/found.txt": 14,
+    "test.txt": 19
+  },
+
+  "getLengthFolders": [
+    "/",
+    "/folder 1/subfolder",
+    "/seach/this/",
+    "/seach/"
+  ],
+
+  "createFileInDir": "folder 1",
+  "fileToCreateDirectoryOrFileOn": "test.txt",
+
+  "fileToDelete": "folder 2/RRUe0Mo.png",
+  "folderToDelete": "folder 2",
+
+  "fileToRead": "test.txt",
+  "bigFileToRead": {
+    "/folder 1/subfolder/RRUe0Mo.png": "https://www.dropbox.com/s/09i6glwpv5nguq1/RRUe0Mo.png?dl=1"
+  },
+
+  "bigFileToWrite": "https://www.dropbox.com/s/q8ovjxmndi5wlkt/bigfiletest?dl=1",
+
+  "filesToMove": {
+    "test.txt": "/folder 1/subfolder/",
+    "RRUe0Mo.png": "/seach/this/",
+    "/seach/this/found.txt": "/"
+  },
+
+  "foldersToMove": {
+    "folder 1": "/folder 2",
+    "seach/this": "/",
+    "seach": "/folder 2/folder 1/subfolder"
+  },
+
+  "subDeleteAll": "/folder 1",
+
+  "lastModified": {
+    "RRUe0Mo.png": 1501736198,
+    "folder 2": 1501736088,
+    "test.txt": 1501736226
+  },
+
+  "createdAt": {
+    "RRUe0Mo.png": 1501736198,
+    "folder 2": 1501736088,
+    "test.txt": 1501736146
+  },
+
+  "lastAccessed": {
+    "RRUe0Mo.png": 1501916400,
+    "test.txt": 1501916400
+  }
+}
