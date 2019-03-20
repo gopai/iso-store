@@ -1,5 +1,5 @@
 {
-  "fileSystemOffset": 2,
+  "fileSystemOffset": 2048,
   "blockSize": 512,
   "volumeLabel": "TEST VOLUME",
   "capacity": 8053062656,
