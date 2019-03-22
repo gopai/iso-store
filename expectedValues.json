@@ -2,10 +2,10 @@
   "fileSystemOffset": 2048,
   "blockSize": 512,
   "volumeLabel": "NO NAME    ",
-  "capacity": 8053062656,
+  "capacity": 1005584384,
   "occupiedSpace": 24239104,
   "freeSpace": 8028823552,
-  "chunkSize": 4096,
+  "chunkSize": 16384,
 
   "timezone": "America/Los_Angeles",
 
