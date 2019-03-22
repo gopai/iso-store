@@ -3,8 +3,8 @@
   "blockSize": 512,
   "volumeLabel": "NO NAME    ",
   "capacity": 1005584384,
-  "occupiedSpace": 24239104,
-  "freeSpace": 8028823552,
+  "occupiedSpace": 3424256,
+  "freeSpace": 1070219264,
   "chunkSize": 16384,
 
   "timezone": "America/Los_Angeles",
