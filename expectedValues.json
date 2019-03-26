@@ -67,7 +67,7 @@
 
   "fileToRead": "test.txt",
   "bigFileToRead": {
-    "/folder 1/subfolder/RRUe0Mo.png": "https://www.dropbox.com/s/09i6glwpv5nguq1/RRUe0Mo.png?dl=1"
+    "/RRUe0Mo.png": "https://www.dropbox.com/s/09i6glwpv5nguq1/RRUe0Mo.png?dl=1"
   },
 
   "bigFileToWrite": "https://www.dropbox.com/s/q8ovjxmndi5wlkt/bigfiletest?dl=1",
